@@ -64,7 +64,7 @@ SUPPORT_LINK = "https://t.me/bsbhaiotp"      # Your support link
 DEVELOPER_LINK = "https://t.me/bsbhaiotp"          # Your developer link
 CHANNEL_LINK = "https://t.me/bsbhaiotp"          # Channel link
 OTP_GROUP_LINK = "https://t.me/bsbhaiotp"    # OTP receive group link
-RANGE_GROUP_LINK = "https://t.me/bsbhaiotp     # Range group link
+RANGE_GROUP_LINK = "https://t.me/bsbhaiotp"     # Range group link
 
 request_queue = asyncio.Queue()
 MAX_WORKERS = 5000
